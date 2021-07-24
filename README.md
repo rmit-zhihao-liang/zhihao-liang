@@ -1,15 +1,17 @@
-### I'm Zhihao Liang
+### Hi, there! I'm Zhihao Liang
 
 - An IT Student from RMIT.
+- An Dotaer
+- Very interested in Data science
 
 
 ### 🛠  Tech Stack
 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=007396)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 - 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
 ![Spring boot](https://img.shields.io/badge/-springboot-333333?style=flat&logo=springboot)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
